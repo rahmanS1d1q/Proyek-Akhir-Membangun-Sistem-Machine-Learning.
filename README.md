@@ -16,32 +16,32 @@ Struktur folder pada proyek ini adalah sebagai berikut:
 SMSML_Muhammad-Rahman-Shiddiq
 ├── Eksperimen_SML_Muhammad-Rahman-Shiddiq.txt
 ├── Membangun_model/
-│ ├── modelling.py
-│ ├── modelling_tuning.py
-│ ├── requirements.txt
-│ ├── DagsHub.txt
-│ ├── namadataset_preprocessing/
-│ │ ├── X_train.csv
-│ │ ├── X_test.csv
-│ │ ├── y_train.csv
-│ │ └── y_test.csv
-│ ├── artifacts/
-│ │ ├── classification_report.json
-│ │ ├── confusion_matrix.png
-│ │ ├── pr_curve.png
-│ │ └── roc_curve.png
-│ ├── screenshoot_artifak.jpg
-│ └── screenshoot_dashboard.jpg
+│   ├── modelling.py
+│   ├── modelling_tuning.py
+│   ├── requirements.txt
+│   ├── DagsHub.txt
+│   ├── namadataset_preprocessing/
+│   │   ├── X_train.csv
+│   │   ├── X_test.csv
+│   │   ├── y_train.csv
+│   │   └── y_test.csv
+│   ├── artifacts/
+│   │   ├── classification_report.json
+│   │   ├── confusion_matrix.png
+│   │   ├── pr_curve.png
+│   │   └── roc_curve.png
+│   ├── screenshoot_artifak.jpg
+│   └── screenshoot_dashboard.jpg
 ├── Monitoring dan Logging/
-│ ├── inference.py
-│ ├── prometheus.yml
-│ ├── prometheus_exporter.py
-│ ├── bukti_serving.jpg
-│ ├── bukti monitoring Prometheus/
-│ │ └── monitoring.jpg
-│ └── bukti alerting Grafana/
-│ ├── notifikasi.png
-│ └── rules_.png
+│   ├── inference.py
+│   ├── prometheus.yml
+│   ├── prometheus_exporter.py
+│   ├── bukti_serving.jpg
+│   ├── bukti monitoring Prometheus/
+│   │   └── monitoring.jpg
+│   └── bukti alerting Grafana/
+│       ├── notifikasi.png
+│       └── rules_.png
 └── Workflow-CI.txt
 
 ---
